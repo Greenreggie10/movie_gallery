@@ -22,7 +22,7 @@ a:hover {
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #22a360;
   border: 0;
   padding: 1%;
   color: white;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background-color: #34eb9f;
 }
 
 .post-list {
