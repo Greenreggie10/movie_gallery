@@ -17,7 +17,7 @@ async function loginFormHandler(event) {
     if (response.ok) {
       document.location.replace('/dashboard/');
     } else {
-      alert(response.statusText);
+      alert("There is an issue with either the email or password. Please try again.");
     }
   }
 }
