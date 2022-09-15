@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  background-color: #333;
+  color: #fff5eb;
 }
 
 body, html {
@@ -12,7 +14,7 @@ body, html {
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #317fdf;
   font-weight: bold;
   transition: color .1s;
 }
@@ -22,7 +24,7 @@ a:hover {
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #3181e4;
   border: 0;
   padding: 1%;
   color: white;
@@ -97,7 +99,7 @@ main {
   padding: 0;
   cursor: pointer;
   text-decoration: none;
-  color: #225ca3;
+  color: #2f7edf;
   font-size: 100%;
   font-weight: bold;
   transition: color .1s;
@@ -152,7 +154,7 @@ main {
 }
 
 .comment:nth-child(odd) {
-  background-color: #fff5eb;
+  background-color: #333;
 }
 
 .comment .meta {
@@ -170,7 +172,7 @@ main {
 }
 
 footer {
-  border-top: 1px solid #ccc;
+  
   display: flex;
   justify-content: center;
   padding: 1%;
