@@ -23,7 +23,7 @@ This fullstack application was created with the thought in mind to make a single
 ## Usage
   Primary usage would be either the update of movies on your "To Watch" list, as well as adding movies to the in application list, for others to watch as well.
 ## Screenshots 
-[alt text](./images/Screenshot%20(movie%20gallery).png)
+![alt text](./images/Screenshot%20(movie%20gallery).png)
 
 
 ## Contributing
