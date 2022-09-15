@@ -91,6 +91,16 @@ const postdata = [
     title: 'Sinister',
     post_url: 'https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_.jpg',
     user_id: 4
+  },
+  {
+    title: 'Nulla ut erat id mauris vulputate elementum.',
+    post_url: 'http://java.com/diam/neque/vestibulum/eget/vulputate/ut/ultrices.png',
+    user_id: 6
+  },
+  {
+    title: 'Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.',
+    post_url: 'https://java.com/at/nibh/in.png',
+    user_id: 7
   }
 ];
 
