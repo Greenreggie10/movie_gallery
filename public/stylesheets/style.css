@@ -176,3 +176,10 @@ footer {
   padding: 1%;
   font-size: 110%;
 }
+
+input[type="checkbox"] {
+vertical-align:bottom;
+position: relative;
+top: 14px;
+padding: 0;
+margin: 0;}
