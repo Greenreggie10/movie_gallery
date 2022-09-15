@@ -93,13 +93,13 @@ const postdata = [
     user_id: 4
   },
   {
-    title: 'Nulla ut erat id mauris vulputate elementum.',
-    post_url: 'http://java.com/diam/neque/vestibulum/eget/vulputate/ut/ultrices.png',
+    title: 'Curious George',
+    post_url: 'https://m.media-amazon.com/images/I/41EnJvqPAaL._AC_.jpg',
     user_id: 6
   },
   {
-    title: 'Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.',
-    post_url: 'https://java.com/at/nibh/in.png',
+    title: 'Annabelle',
+    post_url: 'https://m.media-amazon.com/images/I/614rium+zxL._AC_SY679_.jpg',
     user_id: 7
   }
 ];
