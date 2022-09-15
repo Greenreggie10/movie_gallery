@@ -2,7 +2,7 @@ const path = require('path');
 const express = require('express');
 const session = require('express-session');
 const exphbs = require('express-handlebars');
-const lodash = require('lodash');
+const _ = require('lodash');
 
 const app = express();
 const PORT = process.env.PORT || 3001;

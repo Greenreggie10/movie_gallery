@@ -35,12 +35,12 @@
 
 {{#if posts.length}}
 <section>
-  <h2>Your Posts</h2>
+  <h2>Your Movies</h2>
   <ol>
     {{#each posts as |post|}}
     <li>
       {{> post-info post}}
-      <a href="/dashboard/edit/{{post.id}}" class="edit-link">Edit post</a>
+      <a href="/dashboard/edit/{{post.id}}" class="edit-link">Edit Movie Information</a>
     </li>
     {{/each}}
   </ol>
