@@ -1,26 +1,36 @@
 {
-  "name": "hacker-news-clone",
+  "name": "movie-gallery",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description This fullstack application was created with the thought in mind to make a single place to store the movies that you want to watch, while also allowing you to also be aware of the applications where the movie is stored. In addition to this, this application allows one to add movies to the list of what is available, so the community can constantly increase the list of movies that is available to you.",
   "main": "server.js",
   "scripts": {
     "test": "jest",
-    "seeds": "node seeds/index.js"
+    "seeds": "node seeds/index.js",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^6.1.1",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "dotenv": "^8.6.0",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
     "express-session": "^1.17.3",
-    "handlebars": "^4.7.3",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.21.5"
+    "handlebars": "^4.7.7",
+    "lodash": "^4.17.21",
+    "mysql2": "^2.3.3",
+    "sequelize": "^5.22.5"
   },
   "devDependencies": {
-    "jest": "^25.1.0"
-  }
+    "jest": "^29.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenreggie10/movie_gallery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Greenreggie10/movie_gallery/issues"
+  },
+  "homepage": "https://github.com/Greenreggie10/movie_gallery#readme"
 }
