@@ -1,10 +1,14 @@
 <article class="post">
   <div class="title">
-    <a href="{{post_url}}" target="_blank">{{title}}</a>
+    <p>{{title}}</p>
+    <div>
+      <img src="{{post_url}}" height= 400 width=250 />
+    </div>
     <span>({{format_url post_url}})</span>
   </div>
   <div class="meta">
-    {{vote_count}} {{format_plural "point" vote_count}} by {{user.username}} on {{format_date created_at}}
+  <div class="watch-options"> Where to Watch: {{1}}</div>
+    {{vote_count}} {{format_plural "Viewer" vote_count}}: added by {{user.username}} on {{format_date created_at}}
     |
     <a href="/post/{{id}}">{{comments.length}} {{format_plural "comment" comments.length}}</a>
   </div>

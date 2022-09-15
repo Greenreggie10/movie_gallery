@@ -17,7 +17,7 @@ async function upvoteClickHandler(event) {
   if (response.ok) {
     document.location.reload();
   } else {
-    alert(response.statusText);
+    alert('You already noted you have watched this movie.');
   }
 }
 

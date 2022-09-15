@@ -18,7 +18,7 @@ async function newFormHandler(event) {
   if (response.ok) {
     document.location.replace('/dashboard');
   } else {
-    alert(response.statusText);
+    alert('Please make sure to include the title and a picture of the movie poster before attempting to create a new post.');
   }
 }
 
