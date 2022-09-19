@@ -91,6 +91,16 @@ const postdata = [
     title: 'Sinister',
     post_url: 'https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_.jpg',
     user_id: 4
+  },
+  {
+    title: 'Curious George',
+    post_url: 'https://m.media-amazon.com/images/I/41EnJvqPAaL._AC_.jpg',
+    user_id: 6
+  },
+  {
+    title: 'Annabelle',
+    post_url: 'https://m.media-amazon.com/images/I/614rium+zxL._AC_SY679_.jpg',
+    user_id: 7
   }
 ];
 
