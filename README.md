@@ -18,7 +18,7 @@ This fullstack application was created with the thought in mind to make a single
 
 
 ## Installation
-  One should be able to go to heroku and use it directly with no issues at the following link:
+  One should be able to go to heroku and use it directly with no issues at the following link: [movie](https://movie-galleries.herokuapp.com/)
 
 ## Usage
   Primary usage would be either the update of movies on your "To Watch" list, as well as adding movies to the in application list, for others to watch as well.
